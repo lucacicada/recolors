@@ -1,0 +1,25 @@
+{
+  "name": "recolors",
+  "version": "1.0.0",
+  "description": "picocolors alternative as a module",
+  "author": "Luca",
+  "license": "ISC",
+  "repository": "lucacicada/recolors",
+  "sideEffects": false,
+  "type": "module",
+  "main": "recolors.mjs",
+  "module": "recolors.mjs",
+  "browser": "recolors.browser.mjs",
+  "types": "recolors.d.ts",
+  "files": [
+    "recolors.*"
+  ],
+  "keywords": [
+    "picocolors",
+    "terminal",
+    "colors",
+    "formatting",
+    "cli",
+    "console"
+  ]
+}
